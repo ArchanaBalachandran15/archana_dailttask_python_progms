@@ -1,0 +1,5 @@
+food - 250
+travel - 250
+dress - 450
+movie - 200
+stationary - 150
